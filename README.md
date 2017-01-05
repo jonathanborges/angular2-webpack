@@ -1,2 +1,2 @@
 # angular2-webpack
-A structure project for angular2 with webpack.
+A project structure for angular2 with webpack.
